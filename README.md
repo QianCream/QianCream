@@ -1,3 +1,3 @@
-![image](https://github.com/QianCream/QianCream/blob/main/Pictures/ProfilePicture.png)
+![image](https://github.com/QianCream/QianCream/blob/main/头像.jpg)
 
-<h1>你好，这里是浅 Cream</h1>
+<h1>Hi,here's Armand.</h1>
