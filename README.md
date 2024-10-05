@@ -26,7 +26,7 @@
 ## 🚧 项目
 - [FreeWorld](https://github.com/QianCream/FreeWorld)：基于C++实现的终端沙盒（链接直达最新版本）
   
-- [FreeWorld pre](https://github.com/QianCream/FreeWorld pre)：FreeWorld的预发布版本
+- [FreeWorld-pre](https://github.com/QianCream/FreeWorld-pre)：FreeWorld的预发布版本
   
 - [MappingPro]()：尚未发布的更好的映射容器，基于C++
   
@@ -34,8 +34,13 @@
 
 ## 📞 联系方式
 - 电话：15900671601（谨慎）
+  
 - 微信：QianCream2011（注明来意）
+  
 - QQ：2486703552（私人的，休闲的）
+  
 - B站：Armand（不常用）
+  
 - X：Armand（废弃）
+  
 - Email - QianCream@gmail.com（正式的）
