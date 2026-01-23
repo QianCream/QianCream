@@ -1,43 +1,71 @@
-![image](https://github.com/QianCream/QianCream/blob/main/Profile.jpg)
+<div align="center">
 
-<div align = "center">
-  
-# Hi，我是Armand.
-  
+## Hi，我是 Armand 👋
+
 </div>
 
-## 🛠️ 我的技能
+我是一名初中学生，平时利用业余时间写代码，主要做一些 **游戏相关项目、系统练习和工具型软件**。  
+目前还在学习阶段。
 
-### Python
-- Pygame，tkinter等桌面开发，算法和爬虫
+---
 
-### C++
-- 算法，游戏，基础的Unreal Engine等游戏引擎
+## 我写过的东西
 
-### Kotlin
-- 简单的Android移动端开发
+### 🐍 Python
+主要用 Python 做游戏原型和系统实验，偏向 **规则、状态和交互逻辑**。
 
-### Web编程
-- Html，Css，Javascrips等Web编程语言
+- **FreeWorld**  
+  一个沙盒方向的练习项目，用来尝试地形生成和游戏系统设计。
 
-## 🚧 项目
-- [FreeWorld](https://github.com/QianCream/FreeWorld)：基于C++实现的终端沙盒
-  
-- [FreeWorld-pre](https://github.com/QianCream/FreeWorld-pre)：FreeWorld的预发布版本
-  
-- [FreeWorld-Terrain](https://github.com/QianCream/FreeWorld-Terrain)：FreeWorld 的地形生成模块，以可视化形式呈现。
+- **FreeWorld Terrain Generator**  
+  从主项目中拆出来的地形生成器，用于单独验证生成逻辑和分布效果。
 
-- [FreeWorld-Pygame](https://github.com/QianCream/FreeWorld-Pygame)：基于 Pygame 的可视化沙盒游戏。
+- **Obscure**  
+  基于 Pygame 的模拟终端风格“黑客”游戏，  
+  主要练习文本界面、状态切换和交互反馈。
 
-## 📞 联系方式
-- 电话：15900671601
-  
-- 微信：QianCream2011（请注明来意）
-  
-- QQ：2486703552（随意添加）
-  
-- B站：Armand（不常用）
-  
-- X：Armand（被封号，等待解封）
-  
-- Email - QianCream@gmail.com（正式的）
+- **Sunset**  
+  一个基于 Pygame 的帝国建设与控制类游戏原型，  
+  涉及资源、区域、时间推进等基础系统。
+
+在这些项目里实现过：
+- 角色移动 / 跳跃 / 碰撞
+- 地形生成与 Chunk 自动扩展
+- 昼夜时间系统
+- 物品掉落、合并与背包逻辑
+- 成就与状态显示系统
+
+---
+
+### ⚙️ C++
+主要写一些 **偏底层或工具型** 的代码。
+
+- **FreeWorld（C++ 重构版）**  
+  尝试用 C++ 重构原有思路，更关注结构和性能。
+
+- **Terminus**  
+  一个终端字体 / 样式相关的 C++ 库，用于处理输出格式和显示效果。
+
+---
+
+### 🍎 Swift / SwiftUI
+用 SwiftUI 写过一些偏实用的小应用。
+
+- **Lexis**  
+  卡片式的单词记忆工具，偏简单、实用。
+
+- **Dozens**  
+  基于 Apple Intelligence 的待办事项清单应用，  
+  主要是对系统能力和交互方式的探索。
+
+---
+
+## 其他
+
+- 会用 HTML / CSS / JavaScript，一般用于项目展示或简单页面
+- 对游戏系统、规则设计、底层逻辑比较感兴趣
+
+---
+
+代码还在不断调整中，很多地方也在重构和优化。  
+如果你对其中某个项目或实现方式感兴趣，欢迎看看代码。
